@@ -16,13 +16,13 @@ Dependencia agregada: Spring Web
 
 Luego hice clic en Generate para descargar el proyecto en formato ZIP.
 
-Descompresión y apertura en Visual Studio Code
+Descompresión y apertura en IntelIdea
 
 Después de descargar el archivo:
 
 Descomprimí la carpeta del proyecto.
 
-Abrí Visual Studio Code.
+Abrí mi Intel.
 
 Seleccioné “Open Folder”.
 
@@ -34,7 +34,7 @@ Creación del controlador (Hola Mundo)
 
 Dentro del paquete principal creé una nueva clase llamada:
 
-HelloController.java
+CristhianYaranga.java
 
 En esta clase agregué el código para mostrar el mensaje "Hola Mundo" en el navegador utilizando:
 
